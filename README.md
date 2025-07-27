@@ -51,6 +51,8 @@ All sales tables were **appended into a single unified fact table**: Total Sales
   - Snowflake Schema for dimension details
 - Relationships: mostly One-to-Many, minimal Many-to-One
 
+<img width="1878" height="811" alt="Screenshot 2025-07-19 230955" src="https://github.com/user-attachments/assets/be386ace-6ff7-496f-9355-2cff7ddda528" />
+
 ---
 
 ## 📊 Dashboard Pages & Key Insights
@@ -67,7 +69,7 @@ All sales tables were **appended into a single unified fact table**: Total Sales
   - 2016: 4M Profit, 9.3M Revenue
   - 2017 (until June): 4M Profit, 9.2M Revenue
 
-<img width="1453" height="814" alt="Screenshot 2025-07-27 122147" src="https://github.com/user-attachments/assets/29b04bf1-9770-414c-baa3-f71c2d3bf1ed" />
+<img width="1453" height="814" alt="Screenshot 2025-07-27 122147" src="https://github.com/user-attachments/assets/fbbdff8c-65b8-456e-8144-1358595f3bd7" />
 
 ---
 
@@ -81,7 +83,7 @@ All sales tables were **appended into a single unified fact table**: Total Sales
 - **Bulk Orders (>1):** 15K
 - **Total Orders:** 25K
 
-<img width="1444" height="811" alt="Screenshot 2025-07-27 122202" src="https://github.com/user-attachments/assets/6180a23e-dcf9-40f0-a893-296023d0f0b0" />
+<img width="1444" height="811" alt="Screenshot 2025-07-27 122202" src="https://github.com/user-attachments/assets/48d9190c-3aa5-4aa8-8af6-ec28650645b0" />
 
 ---
 
@@ -90,7 +92,7 @@ All sales tables were **appended into a single unified fact table**: Total Sales
 - **Repeat Customers:** 15K
 - **Churned Customers (purchased only once):** 3,012
 
-<img width="1458" height="806" alt="image" src="https://github.com/user-attachments/assets/ed198ab5-8a78-47f7-870d-c968c277f9f4" />
+<img width="1458" height="806" alt="Screenshot 2025-07-27 122705" src="https://github.com/user-attachments/assets/c6772826-f7df-4d62-a79c-e8f39c421bbe" />
 
 ---
 
@@ -102,7 +104,7 @@ All sales tables were **appended into a single unified fact table**: Total Sales
 - **Return Revenue % of Total:** 3%
 - **Highest Return Year:** 2017
 
-<img width="1450" height="807" alt="Screenshot 2025-07-27 122226" src="https://github.com/user-attachments/assets/de97043d-ac29-43e0-b3f5-aea6287e7862" />
+<img width="1450" height="807" alt="Screenshot 2025-07-27 122226" src="https://github.com/user-attachments/assets/69dedb10-5d0c-4f55-a57c-faff5df9ac67" />
 
 ---
 
@@ -110,7 +112,8 @@ All sales tables were **appended into a single unified fact table**: Total Sales
 - **Revenue Goal:** +1.5× from previous year
 - **Profit Goal:** +1.2× from previous year
 
-<img width="1449" height="819" alt="Screenshot 2025-07-27 122242" src="https://github.com/user-attachments/assets/4f10d9ff-8c43-4e11-b6b6-ae9004b207b8" />
+<img width="1449" height="819" alt="Screenshot 2025-07-27 122242" src="https://github.com/user-attachments/assets/17e45033-ccd0-4adc-9edf-72a9d812dda4" />
+
 
 ---
 
@@ -123,7 +126,7 @@ Using Machine Learning to forecast key business KPIs until the end of **2019**:
 | 📈 Profit     | 5.63M      | +36.4%         | +50%           |
 | 📦 Quantity   | 70K        | 182K           | 250K           |
 
-<img width="1463" height="803" alt="Screenshot 2025-07-27 122303" src="https://github.com/user-attachments/assets/ca184895-3bda-4bee-90af-24906d1e2e05" />
+<img width="1463" height="803" alt="Screenshot 2025-07-27 122303" src="https://github.com/user-attachments/assets/ebddde51-4164-4f10-94cc-a085a5487adc" />
 
 ➡️ The trend shows consistent quarterly and yearly growth, indicating strong future performance if the pattern continues.
 
